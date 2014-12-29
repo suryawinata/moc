@@ -1,0 +1,11 @@
+#header .logo{
+	display: block;
+	margin: 0 auto;
+}
+#header .logo-moc{
+	width: 100px;
+}
+
+#header .wing{
+	width: 100px;
+}

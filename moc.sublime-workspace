@@ -1,0 +1,714 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"best",
+				"bestBuysMob"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"im",
+				"imageName"
+			],
+			[
+				"ma",
+				"main-snippet"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"s",
+				"slideUp"
+			],
+			[
+				"su",
+				"subID"
+			],
+			[
+				"sub",
+				"submenuBlock"
+			],
+			[
+				"sli",
+				"slideUp"
+			],
+			[
+				"sl",
+				"slideUp"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"submen",
+				"submenu-block"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"na",
+				"nav-menu"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ca",
+				"career-wrapper"
+			],
+			[
+				"wha",
+				"what-content"
+			],
+			[
+				"what",
+				"whatPersonOffset"
+			],
+			[
+				"whape",
+				"whatPersonOffset"
+			],
+			[
+				"con",
+				"contact-form"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"pd",
+				"padding-top"
+			],
+			[
+				"flo",
+				"float-pencil"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"la",
+				"laptop"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"How",
+				"howSectionOffset"
+			],
+			[
+				"slide",
+				"slideToggle"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"bo",
+				"bottompage"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"d",
+				"documentHeight"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"who",
+				"whoOffset"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"hove",
+				"hoverHandler"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"int",
+				"Package Control: Install Package"
+			],
+			[
+				"f",
+				"Focus File on Sidebar"
+			],
+			[
+				"focus",
+				"Focus File on Sidebar"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git ",
+				"Git: Pull"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/surya.winata/Desktop/Upload/bestbuy-landing-mobile.css",
+		"/Users/surya.winata/OneDrive/Appliances Online/Landing Page/Dishwashers/dishwashers-sale-aspx.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/GetPriceExperiments/experiment-1.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/GetPriceExperiments/control.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/voucher-ppc/version-2.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/voucher-ppc/version-1.js",
+		"/Users/surya.winata/Projects/AOL-Work/Best-Buy/bestbuy.html",
+		"/Users/surya.winata/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/surya.winata/Library/Application Support/Sublime Text 2/Packages/User/Git.sublime-settings",
+		"/Users/surya.winata/Library/Application Support/Sublime Text 2/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/surya.winata/Projects/AOL-Work/Best-Buy/jquery.easytabs.min.js",
+		"/Users/surya.winata/Projects/AOL-Work/Best-Buy/bestbuy.css",
+		"/Users/surya.winata/Projects/AOL-Work/Best-Buy/bestbuy(Surya).html",
+		"/Users/surya.winata/OneDrive/Appliances Online/Optimizely Badges/Badges JS + Optimezely code.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/buy-guide/bestbuy(Surya).html",
+		"/Users/surya.winata/OneDrive/Appliances Online/Landing Page/Fridges and Freezers/test-freezer-all.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/Landing Page/Fridges and Freezers/test-fridges-all.html",
+		"/Users/surya.winata/Desktop/Test/cat-script-refactor.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/Landing Page/Fridges and Freezers/test-beverages-fridges.html",
+		"/Users/surya.winata/Desktop/Test/cat-script.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/Snippets/html/Whirlpool.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/Snippets/html/Electrolux.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/New-landing-refactor/sub-landing.html",
+		"/Users/surya.winata/OneDrive/Topic-Backup/new-desktop-homepage.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/buyingGuideNewCode/desktop-navigation.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/GA Test/untitled.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/Snippets/html/tcl-gift.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/Snippets/html/samsung-75.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/Snippets/html/samsung-100.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/Snippets/html/samsung-200.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/Snippets/html/samsung-250.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/Snippets/html/samsung-500.html",
+		"/Users/surya.winata/Desktop/homepage-carousel-facebook.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/Snippets/pop-up-snippet.css",
+		"/Users/surya.winata/OneDrive/Appliances Online/Snippets/samsung-75.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/Snippets/cash-promo.html",
+		"/Users/surya.winata/Desktop/Washing Machines   Appliances Online  .html",
+		"/Users/surya.winata/Desktop/Washing Machines   Appliances Online  _files/cat-script.js",
+		"/Users/surya.winata/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/31B717F2-AEAE-4051-8E5D-BD5D4BB6B199/Archive 2/tstz-sub.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/UX_Zama/tstz-sub.html",
+		"/Users/surya.winata/OneDrive/Portfolio2/index.html",
+		"/Users/surya.winata/OneDrive/Portofolio/index.html",
+		"/Users/surya.winata/OneDrive/Portofolio/css/style.css",
+		"/Users/surya.winata/OneDrive/Portofolio/css/bootstrap.css",
+		"/Users/surya.winata/OneDrive/Portofolio/indez.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL-Job Ads/ScrollMagic copy 4/index.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL-Job Ads/ScrollMagic copy 4/css/style.css",
+		"/Users/surya.winata/OneDrive/Appliances Online/UX-1413/av.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/ScrollMagic copy 3/index.html",
+		"/Users/surya.winata/OneDrive/Family Manchester/Header HTML/left-nav.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/ScrollMagic copy 3/css/style.css",
+		"/Users/surya.winata/OneDrive/Appliances Online/ScrollMagic copy 2/index.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/ScrollMagic copy/index.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/ScrollMagic copy/css/style.css",
+		"/Users/surya.winata/OneDrive/heroku/package.json",
+		"/Users/surya.winata/OneDrive/heroku/Procfile",
+		"/Users/surya.winata/OneDrive/heroku/hello.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/ScrollMagic copy/js/init.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/ScrollMagic/index.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/Skrollr/index.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/ScrollMagic/css/style.css",
+		"/Users/surya.winata/.ssh/id_rsa.pub",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/css/style.css",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/index.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/ScrollMagic/js/init.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/home.html",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/css/normalize.css",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/css/bootstrap-theme.min.css",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/js/skrollr.min.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/js/modernizr.custom.78194.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/js/jquery.windows.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/js/jquery.scrollTo.min.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/js/jquery.reject.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/js/jquery.nav.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/js/jquery.backgroundpos.min.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/js/jquery-2.1.1.min.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/js/jquery-1.11.1.min.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/js/init.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/js/bootstrap.min.js",
+		"/Users/surya.winata/OneDrive/Appliances Online/AOL Job Template/css/bootstrap.min.css",
+		"/Users/surya.winata/Downloads/parallax-scrolling/js/jquery.scrollorama.js",
+		"/Volumes/NO NAME/install and run hybris.NOTABAT",
+		"/Users/surya.winata/Box Sync/Appliances Online/Simply Bootstrap and Jquery/index.html",
+		"/Users/surya.winata/Desktop/Vertical Navigation.html",
+		"/Users/surya.winata/Desktop/vertical-nav.html",
+		"/Users/surya.winata/Box Sync/Appliances Online/Job Template/index.html",
+		"/Users/surya.winata/Box Sync/Appliances Online/Job Template/css/style.css",
+		"/Users/surya.winata/Box Sync/Appliances Online/Job Template/js/init.js",
+		"/Users/surya.winata/Projects/aem/content/src/main/content/jcr_root/apps/aol/components/product-tile/product-tile.jsp",
+		"/Users/surya.winata/Projects/aem/content/src/main/content/jcr_root/etc/designs/aol/clientlib/common/js/ie.js",
+		"/Users/surya.winata/Box Sync/Appliances Online/Job Template/js/jquery.scrollmagic.min.js",
+		"/Users/surya.winata/Downloads/bootstrap-3.2.0-dist/css/bootstrap.css.map",
+		"/Users/surya.winata/Box Sync/Appliances Online/website (suryawinata1@hotmail.com)/css/style.css",
+		"/Users/surya.winata/Box Sync/Appliances Online/website (suryawinata1@hotmail.com)/css/style-wide.css",
+		"/Users/surya.winata/Box Sync/Appliances Online/website (suryawinata1@hotmail.com)/js/init.js",
+		"/Users/surya.winata/Box Sync/Appliances Online/website (suryawinata1@hotmail.com)/index.html",
+		"/Users/surya.winata/Box Sync/Appliances Online/website (suryawinata1@hotmail.com)/js/skel.min.js",
+		"/Users/surya.winata/Box Sync/Appliances Online/website/index.html",
+		"/Users/surya.winata/Box Sync/Appliances Online/website/css/style.css",
+		"/Users/surya.winata/Box Sync/Appliances Online/website/js/init.js",
+		"/Users/surya.winata/Box Sync/Appliances Online/website/js/jquery.poptrox.min.js",
+		"/Users/surya.winata/Box Sync/Appliances Online/website/js/jquery.min.js",
+		"/Users/surya.winata/Box Sync/Appliances Online/website/README.txt",
+		"/Users/surya.winata/Box Sync/heroku/node/Procfile",
+		"/Users/surya.winata/Box Sync/heroku/ruby-sample/Procfile",
+		"/Users/surya.winata/Box Sync/heroku/node/package.json",
+		"/Users/surya.winata/Box Sync/heroku/node/web.js",
+		"/Users/surya.winata/Box Sync/heroku/ruby-sample/web.rb",
+		"/Users/surya.winata/Box Sync/heroku/ruby-sample/Gemfile",
+		"/Users/surya.winata/Projects/aem/bundle/src/main/java/au/com/winning/aolsite/ui/ProductTileUI.java",
+		"/Users/surya.winata/Projects/aem/bundle/src/test/java/au/com/winning/aolsite/ui/ProductTileUITest.java",
+		"/Users/surya.winata/Desktop/TG/css/1280-plus.css",
+		"/Users/surya.winata/Desktop/TG/product-page.html",
+		"/Users/surya.winata/Desktop/TG/css/product-page.css",
+		"/Users/surya.winata/Desktop/TG Current/product-page.html",
+		"/Users/surya.winata/Downloads/easydropdown-master 2/demo.css",
+		"/Users/surya.winata/Desktop/product-page.js",
+		"/Users/surya.winata/Desktop/TG/aol/js/product-page.js",
+		"/Users/surya.winata/Desktop/email test 2.html",
+		"/Users/surya.winata/Desktop/test.html",
+		"/Users/surya.winata/Desktop/TG/aol/css/320-768.css",
+		"/Users/surya.winata/Downloads/aol-frontend-test-sidebar-scroll/js/sidebarMenu.js",
+		"/Users/surya.winata/Downloads/6.2.0/jquery.nouislider.min.js",
+		"/Users/surya.winata/Downloads/6.2.0/jquery.nouislider.css",
+		"/Users/surya.winata/Desktop/TG/aol/js/sidebarMenu.js",
+		"/Users/surya.winata/Desktop/TG/aol/product-filter-page.html",
+		"/Users/surya.winata/Desktop/TG/aol/js/main.js",
+		"/Users/surya.winata/Desktop/TG/aol/css/1280-plus.css"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"relative",
+			"btnlink",
+			"a class",
+			"a hreff",
+			"GetPriceExperiment",
+			"-370px",
+			"}\n",
+			"class=\"btnLink\"",
+			"class",
+			"class=\"btnLink\"",
+			"integrated",
+			"topMount",
+			"bgBtnSubscribe",
+			"h3",
+			"li",
+			"menu",
+			"/images/opt/mobile-homepage/version-2/assets/navigation/menu3.png",
+			"'",
+			"data-snippetUrl",
+			"productBadgeSnippetPopup",
+			"fanc",
+			"frontLoad",
+			"frontLoad\\\\\\\\",
+			"frontLoad",
+			"20px",
+			"body",
+			"top: 20px",
+			"20",
+			"lennox",
+			"93px;top: -35px;",
+			"80deg",
+			"data-33500 = \"left: 160px;top: 80px;\"",
+			"team.png",
+			"frontLoad",
+			"frontLoadBtn",
+			"pencil",
+			"what tools",
+			"people",
+			"who-content",
+			"who-img",
+			"margin-top:20px",
+			"margin-top:",
+			"data-6000=\"top:0%\"\n			data-7000=\"top:-200%\"",
+			".who-content",
+			"#who",
+			"#who img",
+			"what-content",
+			".what-content",
+			"1800\n",
+			"200",
+			"|",
+			"min-width",
+			".person-wrapper",
+			"ntro",
+			".intro-wrapper",
+			".what-tools-content h2",
+			"margin-left:",
+			"col-sm",
+			"col-xs",
+			"4200",
+			"50%",
+			"h1",
+			"h2",
+			"what",
+			";\"\n",
+			"what",
+			".laptop",
+			"#what",
+			"what",
+			"data-",
+			"laptop",
+			".laptop",
+			"people.jpg",
+			"company.png",
+			"company",
+			".what-tools-content .content h2",
+			"laptop",
+			"what-caree",
+			".what-tools-section",
+			"section p",
+			".what-tools-content .content h2",
+			";\n",
+			".what-tools-content",
+			"medi",
+			"#money .content",
+			"contactForm",
+			"slideOut : function (categoryClick) {\n			categoryClick.next(\".sub-menu\").slideToggle();\n		}",
+			"){\n",
+			"cover-letter-input",
+			"exampleInputFile",
+			");\n",
+			";\n",
+			"margin",
+			"suitecaseimg",
+			"0 auto",
+			"$(\"section\").height(bodyheight);",
+			"tabindex=\"-1\" ",
+			"<!-- HEADER -->\n	<section></section>",
+			"return false",
+			"five",
+			"scrollGallery",
+			"hover",
+			"slides",
+			"slide",
+			"slide active",
+			"active",
+			"attachEvents",
+			"payment",
+			"wid",
+			"												\n",
+			"<li class=\"height\"></li>",
+			"return",
+			"payment",
+			"	/* Compare checkbox event/reveal the modal popup */",
+			".each",
+			"compareBtns",
+			"compareBtns.each(function(){",
+			"compare",
+			"compareBtns",
+			"compare",
+			"compareBtns",
+			".compare",
+			"compare",
+			"row",
+			"menu",
+			"activeItem",
+			"rows",
+			"activeSubItem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"margin-top:40px"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 97.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true
+}
