@@ -4,7 +4,7 @@ $(function() {
     $("#owl-click").on('click', function (e) {
     	if($(this).hasClass('open-wing')){
 			$(this).removeClass('open-wing');
-			$("#owl-click .left-wing").animate({marginLeft: "-10px"},600);
+			$("#owl-click .left-wing").animate({marginLeft: "20px"},600);
 			$("#owl-click .left-wing").animate({marginTop: "50px"},1000);
 	    	$("#owl-click .right-wing").animate({marginLeft: "-90px"},600);
 	    	$("#owl-click .right-wing").animate({marginTop: "50px"},1000);
@@ -16,7 +16,7 @@ $(function() {
     	else{
     		$(this).addClass('open-wing');
 	    	$("#owl-click .left-wing").animate({marginTop: "40px"},100);
-	    	$("#owl-click .left-wing").animate({marginLeft: "-70px"},1000);
+	    	$("#owl-click .left-wing").animate({marginLeft: "-40px"},1000);
 	    	$("#owl-click .right-wing").animate({marginTop: "40px"},100);
 	    	$("#owl-click .right-wing").animate({marginLeft: "-30px"},1000);
 	    	$("#owl-click .navigation").animate({opacity: "1"},1000);
@@ -33,7 +33,7 @@ function navigationFirstLoad () {
 	setTimeout(function(){ 
 		$("#owl-click").addClass('open-wing');
 		$("#owl-click .left-wing").animate({marginTop: "40px"},100);
-		$("#owl-click .left-wing").animate({marginLeft: "-70px"},1000);
+		$("#owl-click .left-wing").animate({marginLeft: "-40px"},1000);
 		$("#owl-click .right-wing").animate({marginTop: "40px"},100);
 		$("#owl-click .right-wing").animate({marginLeft: "-30px"},1000);
 	}, 700);
